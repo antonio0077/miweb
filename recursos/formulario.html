@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+
+	<!-- Cabecera del documento -->
+	<head>
+		<meta charset="UTF-8" >
+		<meta name="author" content="Antonio Gallardo">
+		<title>Formulario</title>
+		<link rel="stylesheet" href="estilo.css" type="text/css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	</head>
+	
+	<!-- Cuerpo del documento -->
+	<body>
+		<header class="header">
+			<div class="row">
+				<div class="col-3 col-s-3">
+				  <img src="logo.png" class="logo">
+				</div>
+			  			
+				<div class="divmenu col-9">
+					<ul id="button">
+							<li><a href="../index.html">Inicio</a></li>
+							<li><a href="comite.html">Comité Organizdor</a></li>
+							<li><a href="calendario.html">Calendario</a></li>
+							<li><a href="formulario.html">Contacto</a></li>
+							
+					</ul>				
+				</div>
+
+			</div>
+
+		</header>
+		
+		<article>
+			<h1 class="titulo">Formulario de contacto</h1>
+			
+		</article>
+		
+		  
+		
+		  
+		  <footer class="footer">
+			<center>
+				
+		
+						<form action="/action_page.php" method="post">
+							<fieldset align="center">
+								<legend align="center">Datos personales</legend>
+									<table border="0" align="center">
+										<tr>
+											<th align="right">Nombre:</th>
+											<td><input type="text" name="nombre" size="50" required="required"></td>
+									   </tr>
+									   
+		
+									   
+										<tr>
+											<th align="right">Fecha de nacimiento:</th>
+											<td align="left"><input type="date" name="fecha" size="50"></td>
+										</tr>
+										<tr>
+											<th align="right">Correo electronico:</th>
+											<td><input type="email" name="correo" size="50"></td>
+										</tr>
+										<tr>
+											<th align="right">Telefono:</th>
+											<td align="left"><input type="tel" name="telefono" pattern="[0-9]{3}[0-9]{3}[0-9]{3}" required="required"></td>
+										</tr>
+		
+										<tr>
+											<th colspan="2" align="left">Explique brevemente su problema:</th>                                                                      
+										</tr>
+		
+										<tr>
+											<th colspan="2"><textarea rows="5" cols="40" name="texto"></textarea></th> 
+										</tr>
+		
+										
+									   
+										
+									   
+		
+		
+									</table>
+							</fieldset>
+		
+										<br>
+										<input type="submit" value="Enviar"/>
+										<input type="reset" value="Borrar"/>
+						</form>
+		
+						
+					
+					
+			</center>	
+		  </footer>
+		 
+		
+	</body>
+</html>
