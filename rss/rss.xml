@@ -1,0 +1,15 @@
+<?xml version=1.0 encoding=UTF-8 ?>
+<rss version=2.0>
+  <channel>
+    <title>Noticia de pajaros</title>
+    <description>Campeonato</description>
+    <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/index.html</link>
+    
+        <item>
+          <title>Fechas campeonato</title>
+          <description>Ya estan confirmadas las fechas del torneo</description>
+          <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/recursos/calendario.html</link>          
+        </item>
+      
+  </channel>
+</rss>
