@@ -19,7 +19,7 @@ html {
 }
 
 .header {
-  background-color:;
+  background-color: none;
   color: #ffffff;
   padding: 15px;
 }
@@ -116,7 +116,7 @@ html {
       color: #fff;
       }
 
-.divmenu {;
+.divmenu {
       margin: 10px auto 15px auto;
   }
 
