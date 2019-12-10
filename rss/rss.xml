@@ -1,6 +1,6 @@
-<?xml version=1.0 encoding=UTF-8 ?>
-<rss version=2.0>
-  <channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version = "2.0">
+    <channel>
     <title>Noticia de pajaros</title>
     <description>Campeonato</description>
     <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/index.html</link>
@@ -13,3 +13,4 @@
       
   </channel>
 </rss>
+
