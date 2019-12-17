@@ -5,6 +5,26 @@
     <description>Campeonato</description>
     <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/index.html</link>
     
+        <managingEditor>a.gallardogomez@iesrodmarin.com</managingEditor>
+
+        <language>en-us</language>
+
+        <webMaster>a.gallardogomez@iesrodmarin.com</webMaster>
+
+        <lastBuildDate>Hoy</lastBuildDate>
+
+        <generator>Notepad</generator>
+
+        <copyright>Antonio Gallardo. All rights reserved.</copyright>
+
+        <image>
+          <url>../recursos/logo.png</url>
+          <title>pajaros.com</title>
+          <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/index.html</link>
+        </image>
+
+        
+
         <item>
           <title>Fechas campeonato</title>
           <description>Ya estan confirmadas las fechas del torneo</description>
@@ -16,7 +36,10 @@
           <description>Estos seras los jueces del campeonato</description>
           <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/recursos/comite.html</link>          
         </item>
-      
+
+        
+
+
   </channel>
 </rss>
 
