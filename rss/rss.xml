@@ -19,9 +19,13 @@
 
         <image>
           <url>../recursos/logo.png</url>
-          <title>pajaros.com</title>
+          <title>Campeonato Ornitologico</title>
           <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/index.html</link>
         </image>
+
+        <language>ESP</language>
+
+        <managingEditor>a.gallardogomez@iesrodmarin.com</managingEditor>
 
         
 
