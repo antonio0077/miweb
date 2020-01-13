@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+<title type="text">Noticias de pajaros</title>
+<id>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/index.html</id>
+<updated>13/01/2020</updated>
+<author>
+<name>Antonio</name>
+<email>antoniogallardo@gmail.com</email>
+</author>
+
+<!--Se definen las secciones que forman el canal-->
+<entry>
+<title>Fechas campeonato</title>
+<link rel="alternate" type="text/html" href="http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/recursos/calendario.html" />
+<updated>13/01/2020</updated>
+<id>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/recursos/calendario.html</id>
+<author>
+<name>Antonio Gallardo Gomez</name>
+<email>antoniogallardo104@gmail.com</email>
+</author>
+<summary>Consulta las fechas del torneo.</summary>
+</entry>
+<entry>
+<title>Ya tenemos comite organizador</title>
+<link rel="alternate" type="text/html" href="http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/recursos/comite.html"/>
+<updated>2013-11-12T19:17:55Z</updated>
+<id>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/recursos/comite.html</id>
+<author>
+<name>Antonio Gallardo</name>
+<email>antoniogallardo1004@gmail.com</email>
+</author>
+<summary>Estos seras los jueces del campeonato</summary>
+</entry>
+</feed>
