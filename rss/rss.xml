@@ -7,11 +7,11 @@
     
         <managingEditor>a.gallardogomez@iesrodmarin.com</managingEditor>
 
-        <language>en-us</language>
+        <language>ESP-es</language>
 
         <webMaster>a.gallardogomez@iesrodmarin.com</webMaster>
 
-        <lastBuildDate>Hoy</lastBuildDate>
+        <lastBuildDate>13/01/2020</lastBuildDate>
 
         <generator>Notepad</generator>
 
@@ -40,9 +40,6 @@
           <description>Estos seras los jueces del campeonato</description>
           <link>http://miwebgit1231-prueba323.apps.us-west-1.starter.openshift-online.com/recursos/comite.html</link>          
         </item>
-
-        
-
 
   </channel>
 </rss>
